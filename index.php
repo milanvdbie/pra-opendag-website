@@ -8,14 +8,19 @@
 </head>
 <body>
     <header>
+        <img src="img/curio-01-zwart-logo-rgb.png" alt="">
         <h1>Software Develeper</h1>
-        <h1>Curio</h1>
+        
     </header>
     <main>
-
+        <img src="img/Sanne Bas - Curio - Terheijdenseweg 350-2.jpg" alt="">
+        <h2>Welkom</h2>
     </main>
     <footer>
-
+        <h3>Contact</h3>
+        <p>Email: infopunt@curio.nl</p>
+        <p>Telefoonnummer: 088 209 80 00</p>
+        <p>Adress: Terheijdenseweg 350</p>
     </footer>
 </body>
 </html>
