@@ -23,24 +23,27 @@
             <div class="vakken">
                 <div class="vak">
                     <h3>Web</h3>
-                    <p></p>
+                    <p>dit is een vak op deze opleiding</p>
                 </div>
                 <div class="vak">
                     <h3>Nederlands</h3>
-                    <p></p>
+                    <p>dit is een vak op deze opleiding</p>
                 </div>
                 <div class="vak">
                     <h3>Rekenen</h3>
-                    <p></p>
+                    <p>dit is een vak op deze opleiding</p>
                 </div>
                 <div class="vak">
                     <h3>Mentoruur</h3>
+                    <p>dit is een vak op deze opleiding</p>
                 </div>
                 <div class="vak">
                     <h3>Burgerschap</h3>
+                    <p>dit is een vak op deze opleiding</p>
                 </div>
                 <div class="vak">
                     <h3>Challenges</h3>
+                    <p>dit is een vak op deze opleiding</p>
                 </div>
             </div>
             
