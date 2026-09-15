@@ -13,7 +13,7 @@
         
     </header>
     <main>
-        <div class="na">
+        <div class="welkom">
             <img src="img/Sanne Bas - Curio - Terheijdenseweg 350-2.jpg" alt="">
             <h2>Welkom</h2>
         </div>
@@ -22,19 +22,34 @@
             <h2>Vakken</h2>
             <div class="vakken">
                 <div class="vak">
-                    <h3>web</h3>
+                    <h3>Web</h3>
+                    <p></p>
                 </div>
                 <div class="vak">
-                    <h3>nederlands</h3>
+                    <h3>Nederlands</h3>
+                    <p></p>
                 </div>
                 <div class="vak">
-                    <h3>rekenen</h3>
+                    <h3>Rekenen</h3>
+                    <p></p>
+                </div>
+                <div class="vak">
+                    <h3>Mentoruur</h3>
+                </div>
+                <div class="vak">
+                    <h3>Burgerschap</h3>
+                </div>
+                <div class="vak">
+                    <h3>Challenges</h3>
                 </div>
             </div>
             
         </div>
         <div class="calender">
-
+            <h2>Rooster</h2>
+            <div class="rooster">
+                <img src="img/Rooster eerste leerjaar.png" alt="">
+            </div>
         </div>
     </main>
     <footer>
