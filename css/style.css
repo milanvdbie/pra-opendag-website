@@ -33,3 +33,17 @@ header img{
 main img{
     width: 500px;
 }
+.vakkendeel{
+    padding: 10px;
+    background-color: rgb(241, 156, 170);
+}
+.vakken{
+    display: flex;
+    flex-direction: column;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.vak{
+    background-color: pink;
+    margin: 10px;
+}
