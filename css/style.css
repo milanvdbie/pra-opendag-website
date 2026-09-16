@@ -24,16 +24,22 @@ main{
 footer{
     padding: 10px;
     background-color: rgb(187, 187, 238);
+    
+}
+.contact{
+    padding: 10px;
+    margin-left: 50px;
 }
 
 header img{
     width: 200px;
 }
 main img{
-    width: 500px;
+    width: 700px;
 }
 .welkom{
     margin: 10px;
+    padding: 20px;
 }
 .vakkendeel{
     padding: 10px;
@@ -48,7 +54,21 @@ main img{
 .vak{
     background-color: pink;
     margin: 50px;
+    padding: 15px;
 }
 .calender{
     margin: 10px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.rooster img{
+    width: 900px;
+    margin: 10px;
+    padding: 10px;
+}
+.vakantie{
+    margin: 10px;
+    padding: 10px;
+    width: 400px;
 }
